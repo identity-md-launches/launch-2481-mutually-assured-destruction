@@ -1,0 +1,6 @@
+out/
+cache/
+broadcast/
+test/scratch/
+# leftover from vendoring that the build sandbox would not let be deleted; not a submodule
+lib/openzeppelin-contracts/
